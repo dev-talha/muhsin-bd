@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-09-10",
+    "category": "Corporate",
+    "title": "Building a Unified Corporate Identity for the AL-MUHSIN Group",
+    "summary": "A stronger group identity brings our businesses and social initiatives under one clear purpose: responsible growth with lasting value.",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "date": "2026-08-22",
+    "category": "Community",
+    "title": "Community-Focused Initiatives Continue Across Our Group",
+    "summary": "Our operating philosophy encourages every business unit to contribute positively to the communities it serves.",
+    "image": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&q=80&w=600"
+  },
+  {
+    "date": "2026-07-18",
+    "category": "Business",
+    "title": "Customer Experience Remains Central to Our Growth Strategy",
+    "summary": "Across retail and property development, service quality, transparency and trust remain core priorities.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=600"
+  }
+]

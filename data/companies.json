@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Muhsin Mart",
+    "slug": "muhsin-mart.html",
+    "type": "Retail & Consumer",
+    "logo": "assets/images/muhsinmart.webp",
+    "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&q=80&w=800",
+    "short": "A modern supermarket concept focused on reliable products, respectful service and positive community impact.",
+    "accent": "#087830"
+  },
+  {
+    "name": "Muhsin Real Estate",
+    "slug": "muhsin-real-estate.html",
+    "type": "Property Development",
+    "logo": "assets/images/logo-realestate.svg",
+    "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&q=80&w=800",
+    "short": "Thoughtfully planned residential and commercial development with a focus on quality, value and long-term trust.",
+    "accent": "#152238"
+  },
+  {
+    "name": "Muhsin Foundation",
+    "slug": "muhsin-foundation.html",
+    "type": "Social Welfare",
+    "logo": "assets/images/muhsin-foundation.png",
+    "image": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?auto=format&fit=crop&q=80&w=800",
+    "short": "A social welfare initiative supporting underprivileged communities through compassionate, transparent and sustainable programs.",
+    "accent": "#D4AF37"
+  }
+]
